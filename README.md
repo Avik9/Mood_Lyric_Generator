@@ -1,6 +1,6 @@
 # Mood_Lyric_Generator
 
-This is a program that builds language models that can generate lyrics to songs based on a specified mood (adjective). Please refer to the instructions.pdf for details about the project.
+This is a program that builds language models that can generate lyrics to songs based on a specified mood (adjective). Please refer to instructions.pdf for details about the project.
 
 ## Requirements
 
