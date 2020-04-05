@@ -4,6 +4,6 @@ This is a program that builds language models that can generate lyrics to songs 
 
 ## Requirements
 
-Songs: https: www.kaggle.com/mousehead/songlyrics#songdata.csv
+Songs: www.kaggle.com/mousehead/songlyrics#songdata.csv
 
 Conll Tags: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/ark-tweet-nlp/twpos-data-v0.3.tgz
