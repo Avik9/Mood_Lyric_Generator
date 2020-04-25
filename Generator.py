@@ -849,7 +849,7 @@ if __name__ == '__main__':
         matrices = createMatrixCounts(vocabulary, adjectives[adj])
         adjective_models[adj] = [vocabulary, matrices[0], matrices[1]]
 
-    Final Checkpoint
+    # Final Checkpoint
     for i in range(len(test)):
         if test[i] in adjectives:
             print()
